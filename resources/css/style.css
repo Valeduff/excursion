@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header--maine {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+}
